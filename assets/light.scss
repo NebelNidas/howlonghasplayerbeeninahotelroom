@@ -1,11 +1,5 @@
 ---
 ---
 
-:root {
-	--timeline-line-color: #363125;
-	--timeline-box-color: #ded1b4;
-}
-
 @import "{{ site.theme }}";
 @import "main";
-@import "timeline";

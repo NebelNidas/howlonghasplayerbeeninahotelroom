@@ -1,7 +1,9 @@
 .page-content {
-	margin-top: 2.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 15vh;
 	padding: 0;
-	overflow-wrap: break-word;
 }
 
 .site-header, .site-footer {
@@ -10,7 +12,7 @@
 }
 
 .site-footer {
-	margin-top: 4rem;
+	margin-bottom: 10vh;
 }
 
 .post-content {

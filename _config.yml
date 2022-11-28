@@ -17,7 +17,7 @@ title: How long has Player been in a hotel room?
 description: Tracks how long Player has been in his hotel room.
 source_url: "https://github.com/NebelNidas/howlonghasplayerbeeninahotelroom"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://howlonghasplayerbeeninahotelroom.today" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://howlonghasplayerbeeninahotelroom.info" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown

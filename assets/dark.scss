@@ -6,38 +6,8 @@ $text-color: #c9d1d9;
 $grey-color-light: #8b949e;
 $grey-color-dark: #6e7681;
 
-:root {
-	--timeline-line-color: #ded1b4;
-	--timeline-box-color: #363125;
-}
-
 @import "{{ site.theme }}";
 @import "main";
-@import "timeline";
-
-code, select, pre {
-	background-color: $background-color;
-	color: $text-color;
-}
-
-.site-title {
-	color: $text-color !important;
-}
-
-.highlight {
-	background-color: $background-color !important;
-	color: $text-color !important;
-
-	.gd {
-		color: $text-color !important;
-		background-color: rgba(248,81,73,0.4) !important;
-	}
-
-	.gi {
-		color: $text-color !important;
-		background-color: rgba(46,160,67,0.4) !important;
-	}
-}
 
 a, a:visited {
 	color: #58a6ff;
